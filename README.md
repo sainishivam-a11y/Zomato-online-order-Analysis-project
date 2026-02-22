@@ -36,7 +36,23 @@ Identification of popular cuisines and restaurant types
 
 Area-wise distribution of high-demand restaurants
 
+# Key Insights
 
+Restaurants offering online ordering receive higher customer engagement
+
+Mid-range priced restaurants attract the highest number of orders
+
+Higher ratings strongly correlate with increased online demand
+
+Certain cuisines (e.g., North Indian, Chinese, Fast Food) dominate online orders
+
+Urban locations show significantly higher ordering activity
+
+
+Conclusion
+
+The analysis highlights that pricing, ratings, and online availability play a crucial role in customer ordering behavior on Zomato. 
+These insights can help restaurants optimize pricing strategies, improve service quality, and focus on high-demand cuisines to boost online sales.
 
 
 
